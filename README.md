@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joshbeedesign
 - 👀 I’m interested in website development
-- 🌱 I’m currently learning website design
+- 🌱 I’m currently a wordpress website developer
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me: joshbee228@gmail.com
 - 😄 Pronouns: I
